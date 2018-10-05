@@ -3,12 +3,6 @@
   "description": "Some description",
   "type": "ning-library",
   "license": "proprietary",
-  "repositories": [
-    {
-      "type": "path",
-      "url": "composer-installer/"
-    }
-  ],
   "require": {
     "composer/installers": "~1.0"
   }
