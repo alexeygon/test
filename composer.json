@@ -1,8 +1,15 @@
 {
   "name": "alexeygon/test",
   "description": "Some description",
+  "type": "phpdocumentor-template",
   "license": "proprietary",
+  "repositories": [
+    {
+      "type": "path",
+      "url": "composer-installer"
+    }
+  ],
   "require": {
-    "composer/installers": "~1.0"
+    "alexeygon/composer-installer": "~1.0"
   }
 }
