@@ -1,13 +1,12 @@
 {
-  "name": "alexeygon/composer-installer",
-  "version": "1.0",
+  "name": "ning/composer-installer",
   "type": "composer-plugin",
-  "description": "Extend the composer/installers plugin to accept any arbitrary package type.",
+  "description": "Extend the composer/installers plugin to accept ning package type.",
   "autoload": {
-    "psr-4": {"alexeygon\\Composer\\": "src/"}
+    "psr-4": {"Ning\\Composer\\": "src/"}
   },
   "extra": {
-    "class": "alexeygon\\Composer\\Plugin"
+    "class": "Ning\\Composer\\Plugin"
   },
   "require": {
     "composer-plugin-api": "^1.0"

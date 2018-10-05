@@ -6,10 +6,10 @@
   "repositories": [
     {
       "type": "path",
-      "url": "composer-installer"
+      "url": "composer-installer/"
     }
   ],
   "require": {
-    "alexeygon/composer-installer": "~1.0"
+    "ning/composer-installer": "dev-master"
   }
 }

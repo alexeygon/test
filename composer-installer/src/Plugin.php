@@ -1,6 +1,6 @@
 <?php
 
-namespace alexeygon\Composer;
+namespace Ning\Composer;
 
 use Composer\Composer;
 use Composer\IO\IOInterface;
