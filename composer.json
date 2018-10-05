@@ -1,6 +1,5 @@
 {
   "name": "alexeygon/test",
-  "type": "cakephp-plugin",
   "description": "Some description",
   "license": "proprietary",
   "require": {
