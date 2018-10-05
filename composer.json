@@ -1,7 +1,7 @@
 {
   "name": "alexeygon/test",
   "description": "Some description",
-  "type": "phpdocumentor-template",
+  "type": "ning-library",
   "license": "proprietary",
   "repositories": [
     {
@@ -10,6 +10,6 @@
     }
   ],
   "require": {
-    "ning/composer-installer": "dev-master"
+    "composer/installers": "~1.0"
   }
 }
